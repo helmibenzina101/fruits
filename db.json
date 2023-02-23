@@ -1,0 +1,28 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "mango",
+      "quantity": 10,
+      "price": 350
+    },
+    {
+      "id": 3,
+      "name": "kiwi",
+      "price": 45,
+      "quantity": 45
+    },
+    {
+      "id": 4,
+      "name": "Kaaris",
+      "price": 0,
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "name": "ananas",
+      "price": 80,
+      "quantity": 1
+    }
+  ]
+}
