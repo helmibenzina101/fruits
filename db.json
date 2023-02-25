@@ -23,6 +23,12 @@
       "name": "ananas",
       "price": 80,
       "quantity": 1
+    },
+    {
+      "id": 6,
+      "name": "fraise",
+      "price": 45,
+      "quantity": 45
     }
   ]
 }
